@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@headlessui/react": "^2.1.9",
+    "@headlessui/react": "^2.2.10",
     "@heroicons/react": "^2.1.1",
     "@microsoft/fetch-event-source": "^2.0.1",
     "@testing-library/react": "^13.4.0",
